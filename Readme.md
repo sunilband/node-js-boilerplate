@@ -2,6 +2,7 @@
 
 This repository contains a professional quality boilerplate code that is designed to help you kickstart your projects. It includes a variety of packages, middlewares, and utility functions that are commonly used in software development.
 
+
 ## Packages Included
 
 Here are some of the packages included in this boilerplate:
@@ -11,14 +12,12 @@ Here are some of the packages included in this boilerplate:
 - **Cors**: A package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 - **Dotenv**: A zero-dependency module that loads environment variables from a `.env` file into `process.env`.
 - **Nodemon**: A utility that will monitor for any changes in your source and automatically restart your server.
+- **Husky**: A tool to enforce code quality using pre-commit and pre-push hooks.
+- **Prettier**: An opinionated code formatter that ensures your code adheres to a consistent style.
 
 ## Middlewares Used
 
-The boilerplate includes the following middlewares:
-
-- **Error Handling Middleware**: To handle all the errors that occur in the application.
-- **Request Logging Middleware**: To log every request made to the server.
-- **Authentication Middleware**: To authenticate the routes.
+None
 
 ## Utility Functions
 
